@@ -557,6 +557,10 @@ footer span a:hover{
     text-decoration: underline;
 }
 
+.text {
+    text-align: center;
+    font: bolder;
+}
 
 /* responsive media query start */
 @media (max-width: 1104px) {
